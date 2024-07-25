@@ -1,1 +1,1 @@
-# Applied-Numerical-Methods
+# Applied_Numerical_Methods
